@@ -1,0 +1,33 @@
+_repo: Trait--de-la-V-rit--de-la-Religion-Chr-tienne_15739
+_version: 0.1.0
+alternative_title: De veritate religionis Christianae. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grotius, Hugo
+    aliases:
+    - De Groot, Hugo
+    - Groot, Hugo de
+    birthdate: 1583
+    deathdate: 1645
+    gutenberg_agent_id: '5744'
+    url: http://www.gutenberg.org/2009/agents/5744
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_Grotius
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2005-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15739'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indifferentism (Religion)'
+- !lcc 'BT'
+- !lcsh 'Apologetics -- Early works to 1800'
+title: Traité de la Vérité de la Religion Chrétienne
+url: http://www.gutenberg.org/ebooks/15739
